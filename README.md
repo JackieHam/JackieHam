@@ -2,7 +2,7 @@
 - I am a 3rd year BSc Computer Science student at University of British Columbia
 - 👀 I’m interested in game design, cloud and database, as well as machine learning
 - 🌱 I’m currently learning:
-   1. CPSC 304: Introduction to Relational Database, with a term-project included (school github enterprise account name: akam1227)
+   1. CPSC 304: Introduction to Relational Database, with a project included (school github enterprise account name: akam1227)
 - 💞️ I’m looking to collaborate on developing personal projects
 - 📫 How to reach me: jacquelinhan@gmail.com
 
