@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackieHam
-- I am a 3rd year BSc Computer Science student at University of British Columbia
+- I am a 5th year BSc Computer Science student at University of British Columbia (my UBC github page: https://github.students.cs.ubc.ca/akam1227)
 - 👀 I’m interested in game and database development
 - 🌱 I’m currently learning game development in Unity
 - 💞️ I’m looking to collaborate on developing personal projects
